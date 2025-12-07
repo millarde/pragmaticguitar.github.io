@@ -1,4 +1,3 @@
-# pragmaticguitar.github.io
 Landing page for PragmaticGuitar.com
 
-Updated with this line, 12/6 two:15
+Updated with this line, 12/7 two:29
