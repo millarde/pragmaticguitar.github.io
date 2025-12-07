@@ -1,3 +1,5 @@
 Landing page for PragmaticGuitar.com
 
-Updated with this line, 12/7 two:29
+#Official Launch by 2026!
+
+Updated with this line, 12/7 three:14
