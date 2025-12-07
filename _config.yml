@@ -1,4 +1,4 @@
-theme: architect
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Welcome to Pragmatic Guitar!
-author: Millard
-description: Every URL needs a landing page and this is the one for pragmaticguitar.com. 
