@@ -1,5 +1,10 @@
-Landing page for PragmaticGuitar.com
+<h1>Welcome to Pragmatic Guitar!</h1>
 
-<h1>Official Launch by 2026!</h1>
+<h2>You have stumbled upon our soft launch site. Official launch by 2026!</h2>
 
-Updated with this line, 12/7 four:37
+<h3>Most Pragmatic Guitar content, for now, will be hosted at Patreon (there are free options).</h3>
+
+<h3>No hidden redirects: Click this link if you want view the currently available content:</h3>
+
+<p align="center"><a href="https://patreon.com/pragmaticguitar>Go to the Pragmatic Guitar content now</a></p>
+
