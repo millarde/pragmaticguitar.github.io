@@ -4,7 +4,7 @@
 
 <h3>Most Pragmatic Guitar content, for now, will be hosted at Patreon (there are free options).</h3>
 
-<h3>No hidden redirects: Click this link if you want view the currently available content:</h3>
+<h3>No hidden redirects: Click this link if you want to view the currently available content:</h3>
 
-<p align="center"><a href="https://patreon.com/pragmaticguitar">Go to the Pragmatic Guitar content now</a></p>
+<p align="center"><a href="https://patreon.com/pragmaticguitar">Go to the Pragmatic Guitar content on Patreon now</a></p>
 
