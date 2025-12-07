@@ -6,5 +6,5 @@
 
 <h3>No hidden redirects: Click this link if you want view the currently available content:</h3>
 
-<p align="center"><a href="https://patreon.com/pragmaticguitar>Go to the Pragmatic Guitar content now</a></p>
+<p align="center"><a href="https://patreon.com/pragmaticguitar">Go to the Pragmatic Guitar content now</a></p>
 
