@@ -1,6 +1,6 @@
 <h1>Welcome to Pragmatic Guitar!</h1>
 
-<h2>You have stumbled upon our soft launch site. Official launch by 2026!</h2>
+<h2>You have stumbled upon our placeholder site. Official launch in 2026!</h2>
 
 <h3>Most Pragmatic Guitar content, for now, will be hosted at Patreon (there are free options).</h3>
 
